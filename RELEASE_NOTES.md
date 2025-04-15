@@ -3,7 +3,7 @@
 ## Update Steps
 1. Go to [https://iridium4.itch.io/](https://iridium4.itch.io/)
 2. Find and click **Don't Stop**
-(Note: The game may not be available at the time of your reading this)
+(Note: The game may not be available at the time of reading this)
 3. Scroll down to the **Download** section
 4. Click **Download Now**
 5. Click *No thanks, just take me to the downloads*

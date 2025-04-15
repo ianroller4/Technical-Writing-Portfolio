@@ -3,13 +3,17 @@
 
 ## Steps
 1. Go to [https://git-scm.com/](https://git-scm.com/)
+![Git Homepage](Images/GitHome.png)
 2. Click on **Downloads**
 3. Select **Windows** to go to the download for windows page
+![Git Downloads Page](Images/GitDownloads.png)
 4. Under **Standalone Installer** choose the correct version for your system
     - **32-bit Git for Windows Setup** or **64-bit Git for Windows Setup** 
+    ![Git Windows Download Page](Images/GitWindowsDownload.png)
     - *Not sure which to choose?*
       - Go to **Settings > System > About**
       - Look under **Device Specifications** for **System type** 
+
 5. Once download is complete, open the file and follow the on-screen instructions
 6. To confirm the installation:
     - Open the **Command Prompt**

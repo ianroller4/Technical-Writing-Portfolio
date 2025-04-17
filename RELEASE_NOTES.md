@@ -41,19 +41,19 @@
 
 ## Change Log
 
-### V1.2 April 11, 2025
+### v1.2 April 11, 2025
 - Updated map layout
 - Added Slider enemy
 - Added Blocker enemy
 - Removed Ghost enemy (replaced by Blocker)
 - Removed Zombie enemy (replaced by Tracker)
 
-### V1.1 May 31, 2024
+### v1.1 May 31, 2024
 - Updated map layout and size
 - Added Ghost enemy
 - Added menu selection UI
 - Removed unused files
 - Removed old menu buttons
 
-### V1.0 January 19, 2024
+### v1.0 January 19, 2024
 - Initial release on Itch.io

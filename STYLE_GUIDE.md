@@ -92,7 +92,7 @@ signal tookDamage
 enemyCount += 1
 ```
 - For comments that are more than one line use block comments
-```
+```gdscript
 """
 This is a block comment.
 Comments can be on multiple lines.

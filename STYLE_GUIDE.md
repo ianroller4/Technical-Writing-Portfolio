@@ -1,9 +1,11 @@
 # Style Guide for Godot
 
-## Files and Folders
-
-
 ## Naming Conventions
+
+- Scenes: PascalCase
+  - OverWorld.tscn
+- Scripts: camelCase
+  - gameController.gd
 
 - Classes: PascalCase
 ```gdscript
@@ -50,14 +52,49 @@ signal playerHit
 - Use Input function for things not needing to be called every frame
 
 ## Global Files
-- Use sparingly
-- Use for storing variables that need to be accessed by multiple scripts
-- Use for functionality not related to gameplay but has multiple scripts using its functionality (ie save load)
-- Use for passing information when changing scenes
-- Do not make everything global only what is needed to be
+> Global files (also called singletons or autoloads) should only be used when necessary to prevent loading unnecessary data
+### When and What to Use a Global File
+- Use for functionality used by multiple different unconnected scenes
+  - Ex. Saving and loading functions
+- Use for passing necessary data between scenes
+- Use for storing data that will be required in multiple scenes
 
 ## Comments and Documentation
-- All created functions should be documented with purpose, parameters, and any returns
-- Variable / signal groups should be labeled with a """ """ comment
+- All user created functions should be documented by doing the following:
+```gdscript
+"""
+Purpose:
+    Purpose of the function
+Parameters:
+    Parameter 1: type and what it is
+    ...
+    Parameter n: type and what it is
+Return:
+    What the function returns and its type
+"""
+```
+- Variables, constants, and signals once grouped together should be labeled 
+```gdscript
+""" Speed """
+const DASH_SPEED := 200
+const WALK_SPEED := 100
+var speed := WALK_SPEED
 
-## Miscellaneous
+""" Health """
+var health := 3
+signal tookDamage
+
+...
+```
+- Comments for a line of code should come before the code
+```gdscript
+# Increase enemy count
+enemyCount += 1
+```
+- For comments that are more than one line use block comments
+```
+"""
+This is a block comment.
+Comments can be on multiple lines.
+"""
+```

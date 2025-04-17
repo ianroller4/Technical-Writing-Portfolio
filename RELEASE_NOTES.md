@@ -12,7 +12,7 @@
 8. Launch and enjoy the game!
 
 ## New Features
-- **2 new enemy types**
+- **Two new enemy types**
   - **Slider:** 
     - Slides around the arena bouncing off outer walls
   - **Blocker:** 

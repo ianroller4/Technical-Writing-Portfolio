@@ -3,8 +3,9 @@
 
 ## Steps
 1. Go to [https://git-scm.com/](https://git-scm.com/)
-![Git Homepage](Images/GitHome.png)
+![Git Homepage](Images/GitHomeNoCircle.png)
 2. Click on **Downloads**
+![Git Download Link](Images/GitHome.png)
 3. Select **Windows** to go to the download for windows page
 ![Git Downloads Page](Images/GitDownloads.png)
 4. Under **Standalone Installer** choose the correct version for your system

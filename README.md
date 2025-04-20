@@ -2,26 +2,26 @@
 
 Welcome! I'm Ian Roller, a technical writer and game developer with a degree in Computer Engineering.
 
-The purpose of this portfolio is to give you, the reader, an idea what I am capable of when it comes to technical writing.
+This portfolio showcases my ablities in technical writing, with a focus on clarity, structure, and audience engagement.
 
 ## Portfolio Contents
 
 ### Game guide
-The game guide is created for a game I created and is meant to feel like old school video game manuals that are both visually intersting and engagaing to read. The intended audience is someone who is new to the game and wants to learn to play and the story before playing.
+This guide was created for a game I created called *Don't Stop*. The guide is written and designed to evoke the style of classic video game manuals that are visually intersting and engagaing to read. The intended audience is new players wanting to learn to play and immersive themselves in the world.
 
-The game guide can be read here: [Game guide](GAME_GUIDE.md)
+[Read the Game Guide](GAME_GUIDE.md)
 
 ### Release Notes
+These release notes are a summary of the recent changes and improvements made to my game *Don't Stop*. They are structured to be informative and easy to read. The intended audience is returning players and QA testers.
 
-
-The release notes can be read here: [Release notes](RELEASE_NOTES.md)
+[Read the Release Notes](RELEASE_NOTES.md)
 
 ### Style Guide
-The style guide is guide for how code in Godot. This is not a how to guide but rather more similar an essay style guide. The intended audience is someone who is new to programming in Godot but not new to programming.
+This style guide outlines conventions for writing code and naming files in Godot. It is not a tutorial, but rather guidelines to follow for consistent, clean, and readable code. It is meant to simulate a game developers internal style guide so that all code written at the company is consistent. Thus the intended audience is programmers familiar with coding but new to Godot and a game development company.
 
-The style guide can be read here: [Style guide](STYLE_GUIDE.md)
+[Read the Style Guide](STYLE_GUIDE.md)
 
 ### Installation guide
-The installation guide is a step-by-step guide to installing Git for Windows 11. It is intended for readers with at least a base understanding of computers but may be new to installing software that does not have an application they can physically launch.
+This is a step-by-step guide to installing Git for Windows 11. It is written for users with a basic understanding of computers but may be new to installing development tools like Git.
 
-The installation guide can be read here: [Installation guide](INSTALLATION_GUIDE.md)
+[Read the Installation Guide](INSTALLATION_GUIDE.md)

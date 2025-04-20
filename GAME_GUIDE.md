@@ -47,6 +47,9 @@ Secondly, after you are hit you become invincible for a time.
 
 Finally, you have your special move, *the dash*. The dash allows you to move faster, become invincible and pass right through enemies.
 
+<br>
+<br>
+<br>
 
 ## Meet the Enemies
 
@@ -64,6 +67,8 @@ The Tracker is a being of focus, commitment, and sheer will. A Tracker will chas
 
 <br>
 <br>
+<br>
+<br>
 
 ### The Slider
 <img align="left" width = "300" height = "300" src="Images/Slider.png">
@@ -74,6 +79,10 @@ Whereas the Tracker will never stop following you, the Slider is a bit more in i
 
 However, don’t forget that the Slider will hurt you just as much as the Tracker. Even if it does not seem to care about you.
 
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ### The Blocker
@@ -86,6 +95,8 @@ While Blockers will hurt you, they do not actively seek you out. Instead a Block
 
 Unlike its fellow enemies, a max of 12 Blockers can exist at a time, thus making them the rarest of the three.
 
+<br>
+<br>
 <br>
 <br>
 

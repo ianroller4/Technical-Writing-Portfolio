@@ -2,7 +2,6 @@
 
 # Don’t Stop
 
-
 ***Don’t Stop*** is a 2D arcade game made by Ian Roller using the Godot game engine.
 
 ## Table of Contents

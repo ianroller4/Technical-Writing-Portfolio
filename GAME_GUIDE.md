@@ -35,7 +35,7 @@ There is no hiding. There is no killing. There is no escape. Your only option le
 
 Run from the monsters for as long as you can to achieve a high score. 
 
-Want to boost your score faster? Of course you do! Simply let me know and I will make that number get bigger faster.......... and maybe let some more monsters into the arena at the same time. So I get it. You may be saying "I just want to see my score get bigger faster, why more monsters?" I get it, I truly do. But I have got to keep it interesting for all of my adoring fans. So more monsters means more risk and more risk means more points. Good? Good! Glad we are on the same page.
+Want to boost your score faster? Of course you do! Simply let me know and I will make that number get bigger faster.......... and maybe let some more monsters into the arena at the same time. So I get it. You may be saying "I just want to see my score get bigger faster, why more monsters?" I get it, I truly do. But I've got to keep it interesting for all of my adoring fans. So more monsters means more risk and more risk means more points. Good? Good! Glad we are on the same page.
 
 Don't worry too much though, I have decided to be generous today and give you the ability to *dash*. Find yourself surrounded by monsters with no way out? Simply dash through them like they aren't even there! But just be careful you may or not be able to use it again for a while. Just warning you. I can't make it too easy for you. I did mention my adoring fans right, got to keep it interesting for them.
 
@@ -53,7 +53,7 @@ Your score increases by the amount of enemies currently in the arena. More enemi
 
 ## Risk and Reward
 
-While new enemies will be added every five seconds, you have the option to add enemies whenever you wish. This, of course, will increase the amount your score increases by, however, you will also be increasing the difficulty at a faster rate than would naturally happen.
+While new enemies will be added every five seconds, you have the option to add enemies whenever you wish. This, of course, will increase the amount your score increases by, however, you will also be raising the difficulty at a faster rate than would naturally happen.
 
 So, what do you want to do? More points but a harder time or a smoother more natural experience.
 

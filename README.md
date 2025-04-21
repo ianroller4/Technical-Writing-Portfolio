@@ -7,7 +7,7 @@ This portfolio showcases my ablities in technical writing, with a focus on clari
 ## Portfolio Contents
 
 ### Game guide
-This guide was created for a game I created called *Don't Stop*. The guide is written and designed to evoke the style of classic video game manuals that are visually intersting and engagaing to read. The intended audience is new players wanting to learn to play and immersive themselves in the world.
+This guide was created for a game I made called *Don't Stop*. The guide is written and designed to evoke the style of classic video game manuals that are visually interesting and engaging to read. The intended audience is new players wanting to learn to play and to immerse themselves in the world.
 
 [Read the Game Guide](GAME_GUIDE.md)
 
@@ -17,7 +17,7 @@ These release notes are a summary of the recent changes and improvements made to
 [Read the Release Notes](RELEASE_NOTES.md)
 
 ### Style Guide
-This style guide outlines conventions for writing code and naming files in Godot. It is not a tutorial, but rather guidelines to follow for consistent, clean, and readable code. It is meant to simulate a game developers internal style guide so that all code written at the company is consistent. Thus the intended audience is programmers familiar with coding but new to Godot and a game development company.
+This style guide outlines conventions for writing code and naming files in Godot. It is not a tutorial, but rather guidelines to follow for consistent, clean, and readable code. It is meant to simulate a game companies internal style guide so that all code written at the company is consistent. Thus the intended audience is programmers familiar with coding but new to Godot and a game development company.
 
 [Read the Style Guide](STYLE_GUIDE.md)
 
